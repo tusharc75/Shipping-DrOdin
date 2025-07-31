@@ -104,7 +104,7 @@ const corsOptions = {
       'http://localhost:3000',
       'http://127.0.0.1:3000',
       'https://shipping-drodin-1.onrender.com',
-      'https://tranquil-dragon-17b541.netlify.app'
+      'https://iridescent-salamander-1d90bc.netlify.app'
     ];
     
     if (allowedOrigins.indexOf(origin) !== -1) {
