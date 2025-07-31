@@ -45,7 +45,7 @@ const corsOptions = {
   origin: [
     'http://localhost:3000',
     'https://shipping-drodin-1.onrender.com',
-    'https://tranquil-dragon-17b541.netlify.app/'
+    'https://tranquil-dragon-17b541.netlify.app'
   ],
   credentials: true,
   optionsSuccessStatus: 200
