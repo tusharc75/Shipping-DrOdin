@@ -102,9 +102,9 @@ const corsOptions = {
     
     const allowedOrigins = [
       'http://localhost:3000',
-      'http://127.0.0.1:3000',
+      'http://192.168.0.165:3000',
       'https://shipping-drodin-1.onrender.com',
-      'https://iridescent-salamander-1d90bc.netlify.app'
+      'https://endearing-pudding-3d7b9d.netlify.app'
     ];
     
     if (allowedOrigins.indexOf(origin) !== -1) {
