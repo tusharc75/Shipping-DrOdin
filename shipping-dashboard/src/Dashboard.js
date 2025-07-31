@@ -248,7 +248,7 @@ export default function Dashboard() {
 
     try {
       console.log('Sending selection:', selection);
-      const response = await fetch('/api/selections/add', {
+      const response = await fetch('https://shipping-drodin-1.onrender.com/api/selections/add', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
